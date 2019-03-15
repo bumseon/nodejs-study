@@ -7,7 +7,7 @@
     "start": "cross-env NODE_ENV=production PORT=80 pm2 start app.js -i 0",
     "dev": "nodemon app"
   },
-  "author": "ZeroCho",
+  "author": "Malrang",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^3.0.4",
