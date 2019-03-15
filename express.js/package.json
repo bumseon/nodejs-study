@@ -1,7 +1,7 @@
 {
   "name": "nodebird",
   "version": "0.0.1",
-  "description": "ìµìŠ¤í”„ë ˆìŠ¤ë¡œ ë§Œë“œëŠ” SNS ì„œë¹„ìŠ¤",
+  "description": "ÀÍ½ºÇÁ·¹½º·Î ¸¸µå´Â SNS ¼­ºñ½º",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app"
@@ -21,6 +21,7 @@
     "passport": "^0.4.0",
     "passport-kakao": "0.0.5",
     "passport-local": "^1.0.0",
+    "lodash": "^4.17.11",
     "pug": "^2.0.3",
     "sequelize": "^4.37.6"
   }
